@@ -10,3 +10,8 @@ a = (15, 15)
 x = sum(a)
 print(x)
 ```
+## Added markdown list:
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
